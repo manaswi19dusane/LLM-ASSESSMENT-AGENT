@@ -1,5 +1,5 @@
 ﻿# LLM-ASSESSMENT-AGENT
-# LLM Assessment Agent
+
 
 An end-to-end adaptive assessment system that tests your knowledge of Large Language Models. Built with **FastAPI** (Python) and **Next.js** (React).
 
